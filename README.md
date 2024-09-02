@@ -13,11 +13,17 @@ This project aims to predict the likelihood of diabetes in patients by analyzing
 
 # Technologies Used
 > Python: Main programming language.
+
 > Pandas: Data manipulation and cleaning.
+
 > NumPy: Numerical operations.
+
 > Scikit-Learn: Machine learning algorithms and model evaluation.
+
 > Matplotlib/Seaborn: Data visualization.
+
 > Google Colab: Development environment for running and testing the model.
+
 > Streamlit: Deployment of the model as an interactive web application.
 
 # Installation
@@ -45,37 +51,51 @@ pip install -r requirements.txt
 1. Development in Google Colab:
 
 > Open the provided notebook in Google Colab to explore the dataset, perform data preprocessing, and train the model.
+
 2. Model Training: Train the model using the provided script or Colab notebook:
 
 bash
 Copy code
 python train_model.py
+
 3. Deploy with Streamlit: Deploy the model as a web application using Streamlit:
 
 bash
 Copy code
 streamlit run app.py
+
 4.Make Predictions: Input patient data through the Streamlit interface to get predictions.
 
 # Dataset
 You can use a public dataset like the PIMA Indian Diabetes Dataset or your own data. The dataset should include features such as:
 
 > Glucose levels
+
 > Blood Pressure
+
 > BMI
+
 > Age
+
 > Family History of Diabetes
+
 > Insulin Levels
+
 > Skin Thickness
 
 # Model Evaluation
 The model's performance is evaluated using the following metrics:
 
 > Accuracy
+
 > Precision
+
 > Recall
+
 > F1-Score
+
 > Confusion Matrix
+
 These metrics help in assessing the effectiveness of the model in predicting diabetes.
 
 # Contributing
@@ -83,6 +103,8 @@ Contributions are welcome! If you have suggestions for improvement or find any i
 
 # Acknowledgments
 > The PIMA Indian Diabetes Dataset used for training and testing the model.
+
 > Google Colab for providing an accessible development environment.
+
 > Streamlit for simplifying the deployment of machine learning models as web applications.
 
