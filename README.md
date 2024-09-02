@@ -4,8 +4,11 @@ This project aims to predict the likelihood of diabetes in patients by analyzing
 
 # Features
 > Predictive Model: Uses machine learning to predict the probability of diabetes based on patient data.
+
 > Feature Analysis: Considers factors like glucose levels, BMI, age, and family history in predictions.
+
 > Model Evaluation: Includes accuracy, precision, recall, and other metrics to evaluate model performance.
+
 > Streamlit Interface: A web-based user interface for easy input of patient data and viewing predictions.
 
 # Technologies Used
