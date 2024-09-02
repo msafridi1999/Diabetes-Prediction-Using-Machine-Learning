@@ -31,7 +31,7 @@ This project aims to predict the likelihood of diabetes in patients by analyzing
 
 bash
 code
-git clone https://github.com/yourusername/diabetes-prediction.git
+git clone [https://github.com/msafridi1999/diabetes-prediction.git](https://github.com/msafridi1999/Diabetes-Prediction-Using-Machine-Learning.git)
 cd diabetes-prediction
 
 2.Create and activate a virtual environment (optional but recommended):
