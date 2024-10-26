@@ -26,6 +26,11 @@ This project aims to predict the likelihood of diabetes in patients by analyzing
 
 > Streamlit: Deployment of the model as an interactive web application.
 
+# Demo
+>You can explore the live demo of this project here:
+
+🔗 Check out the live demo here: [Diabetes-Prediction-Using-Machine-Learning on Render](https://diabetes-prediction-project-ty5b.onrender.com)
+
 # Installation
 1.Clone the repository:
 
